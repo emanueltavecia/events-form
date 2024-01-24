@@ -2,7 +2,7 @@
 
 Project developed on Rocketseat's Explorer course
 
-**Events form is a landing page designed to learn basic web development concepts**
+**Events form is a page designed to learn basic web development concepts**
 
 ![Events form project screenshot](./.github/screenshot.png)
 
